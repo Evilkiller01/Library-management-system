@@ -32,7 +32,7 @@ A simple **Java-based Library Management System** with a **Graphical User Interf
 ### 2️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/LibraryManagementSystem.git
+git clone https://github.com/Evilkiller01/Library-management-system.git
 cd LibraryManagementSystem
 
 
